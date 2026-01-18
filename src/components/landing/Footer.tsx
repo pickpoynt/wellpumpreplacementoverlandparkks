@@ -114,6 +114,14 @@ const Footer = () => {
             >
               Galvanized Pipe Replacement Akron
             </a>
+            <a
+              href="https://tanklesswaterheaterdescalingbellevu.vercel.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-primary-foreground/50 hover:text-copper-light transition-colors text-sm"
+            >
+              Tankless Water Heater Descaling Bellevue
+            </a>
           </div>
         </div>
 
